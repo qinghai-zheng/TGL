@@ -2,7 +2,7 @@
 
 Source codes of "From one comes two: a tensorized graph learning framework for clustering" accepted by IEEE TKDE
 
-<img src="./Overview_Framework" width="75%">
+<img src="./Overview_Framework.png" width="60%">
 
 If you find the codes useful in your research, please cite our work as follows. Thanks.
 
